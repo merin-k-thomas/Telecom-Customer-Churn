@@ -1,4 +1,4 @@
-# Business Understanding
+## Business Understanding
 
 In the telecom industry, customers are able to choose from multiple service providers and actively switch from one operator to another. In this highly competitive market, the telecommunications industry experiences an average of 15-25% annual churn rate. For many incumbent operators, retaining high profitable customers is the number one business goal. To reduce customer churn, telecom companies need to predict which customers are at high risk of churn.
 
@@ -38,7 +38,7 @@ Customers usually do not decide to switch to another competitor instantly, but r
 
 3. The ‘**churn**’ phase: In this phase, the customer is said to have churned. We define churn based on this phase.
 
-#### Goal of Data Analysis
+## Goal of Data Analysis
 In this project, since we are working over a four-month window, the first two months are the ‘good’ phase, the third month is the ‘action’ phase, while the fourth month is the ‘churn’ phase.
 `In this project, we will analyse customer-level data of a leading telecom firm, build predictive models to identify customers at high risk of churn and identify the main indicators of churn.`
 
